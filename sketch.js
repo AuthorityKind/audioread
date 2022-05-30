@@ -28,7 +28,7 @@ var minSpikeThreshold = 60;
 //the minimum a segment average needs to be before it counts as a spike
 
 function preload() {
-  song = loadSound("fortunate-son.mp3");
+  song = loadSound("Guifrog - Frog Punch.mp3");
 }
 
 function setup() {
